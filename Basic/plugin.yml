@@ -1,0 +1,19 @@
+name: Basic
+version: 1.0
+description: A custom essentials for GoldHQ Partnered Servers.
+author: Joshean
+main: Main.Main
+
+commands:
+  store:
+   description: Supply players with the store URL.
+   usage: /store
+  rank:
+   description: Supply players with the store URL.
+   usage: /store
+  buy:
+   description: Supply players with the store URL.
+   usage: /buy
+  discord:
+   description: Supply players with the discord URL.
+   usage: /discord
